@@ -3,7 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import pdb
 
-#pdb.set_trace()
+pdb.set_trace()
 data = pd.read_csv('marks.txt',header=None)
 #data_np = np.loadtxt('marks.txt')
 
